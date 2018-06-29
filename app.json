@@ -1,0 +1,14 @@
+{
+    "name":"nasaimageserch",
+    "description":"It will show the images of the NASA's data",
+    "keywords":[
+        "HTML5",
+        "CSS3",
+        "JAVASCRIPT",
+        "JQUERY",
+        "NODE",
+        "EXPRESS"
+    ],
+    "repository":"https://github.com/shekhar8897/nasa-api-searchbar.git",
+    
+}
